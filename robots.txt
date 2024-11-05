@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilojaugi.github.io/UHc/sitemap_index.txt
+Sitemap: https://ilojaugi.github.io/icA/sitemap_index.txt
+Sitemap: https://ilojaugi.github.io/mxA/sitemap_index.txt
+Sitemap: https://ilojaugi.github.io/quT/sitemap_index.txt
